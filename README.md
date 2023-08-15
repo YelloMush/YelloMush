@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @YelloMush / Somraj
-- 👀 Interested in Films, Books, Music.
 - 🌱 Currently learning Python & JavaScript.
 - 👷‍♂️ Currently Working compact & minimal projects
 - 📫 Reach me at : somplier2245@gmail.com
