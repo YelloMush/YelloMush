@@ -3,7 +3,7 @@
 - 🌱 Currently learning Python & JavaScript.
 - 👷‍♂️ Currently Working compact & minimal projects
 - 📫 Read me at : somplier2245@gmail.com
-- YT Channel : youtube.com/@eeksobees
+- YT Channel : [youtube.com/@eeksobees](https://www.youtube.com/@eeksobees)
 
 <!---
 YelloMush/YelloMush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
