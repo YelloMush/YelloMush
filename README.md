@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YelloMush / Somraj
-- 🌱 Currently learning Python & JavaScript.
+- 🌱 Currently learning Python, HTML & CSS.
 - 👷‍♂️ Currently Working on compact & minimal projects
 - 📫 Reach me at : somplier2245@gmail.com
 - ✨ YT Channel : [youtube.com/@eeksobees](https://www.youtube.com/@eeksobees)
