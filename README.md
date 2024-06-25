@@ -2,7 +2,6 @@
 - 🌱 Currently learning Python, HTML & CSS.
 - 👷‍♂️ Working on compact & minimal projects
 - 📫 Reach me at : somplier2245@gmail.com
-- ✨ YT Channel : [youtube.com/@eeksobees](https://www.youtube.com/@eeksobees)
 
 <!---
 YelloMush/YelloMush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
