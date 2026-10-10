@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @YelloMush / Somraj
-- 🌱 Currently learning Python, HTML & CSS.
-- 👷‍♂️ Working on compact & minimal projects
-- 📫 Reach me at : somplier2245@gmail.com
+ CS & Statistics student @ CHRIST, Bengaluru | Python, AWS, cloud security | Built Project Aegis (FWaaS) | Open to internships from Dec 2026
+ Contacts - somraj.sarkar2210@gmail.com | LinkedIn - https://www.linkedin.com/in/somraj-sarkar-8800bb359/
 
 <!---
 YelloMush/YelloMush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
